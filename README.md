@@ -1,6 +1,32 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
-<p>Welcome to my page! </br> I'm Gaby,Newly graduated Data Analyst, currently living in <b>Mexico, city </b>. </p>
+
+---
+
+<h1 align="center">
+  Welcome, I'm Gaby Rivera,Newly graduated Data Analyst. 
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<p align="center">
+  Welcome to my GitHub profile! I am a <strong>Data Analyst, with experience in the health sector, specifically in the area of ​​Nutrition </strong> with a passion for leveraging data to drive meaningful results. Below, you'll find more about me, my skills, and the projects I'm working on.
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🌍 Based in CDMX, México.
+- 💼 Currently working as a **Data Analyst**.
+- 🎓 Pursuing an **Advanced SQL Course** to deepen my experience in data extraction and storage.
+- 🌟 Passionate about **data visualization**, **machine learning**, **data analyst** and creating innovative solutions.
+
+---
+
+### 🛠️ Technical Skills
+- **Programming Languages:** Python, SQL, HTML
+- **Data Analysis:** Pandas, Sci-kit Learn, Plotly, Seaborn, Matlib
+- **Visualization Tools:** Tableau, Power BI
+- **Other Tools:** Excel, MySQL
 
 <h3>Skills</h3>
 <p>
@@ -15,11 +41,40 @@
   <img alt="JSON" src="https://img.shields.io/badge/-JSON-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/Gabyplascencia" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabriela-rivera-plascencia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+---
 
+### 📊 Recent Projects
+1. **Data-Driven Workflow Optimization**  
+   - **Tools Used:** Python, Excel  
+   - **Summary:** Developed tools to reduce information retrieval time and streamline workflows in high-complexity projects.
+   
+2. **Customer Insights Dashboard**  
+   - **Tools Used:** Tableau, SQL  
+   - **Summary:** Designed interactive dashboards to visualize customer behavior and key performance metrics.
+
+3. **RCC Reduction Initiative**  
+   - **Tools Used:** Data Cleaning and Visualization (Python, Tableau)  
+   - **Summary:** Reduced post-sales claims (RCC) by 80% for major clients through data-driven solutions.
+
+---
+
+### 📫 Let's Connect!
+- **Email:** gabriela.r.plas@gmail.com
+- **Celphone:** (+52) 55 4343 2004
+- **LinkedIn:** [linkedin.com/in/gabrielarivera-dataanalyst]([https://www.linkedin.com/in/gabrielarivera-dataanalyst/])
+
+---
+
+### 🚀 Fun Fact
+I believe data tells stories that few learn to read, bringing the past, present, and future to the right eye, creating a fascinating new world for those ready to hear untold stories. My mission is to help tell those complex stories, using simple words so more people understand information that only a few could, driving growth and innovation, but also a love of data.
+
+---
+
+### :hammer_and_wrench: My statistics:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March, 07:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
