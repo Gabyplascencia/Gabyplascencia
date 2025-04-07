@@ -44,17 +44,17 @@
 ---
 
 ### 📊 Recent Projects
-1. **Data-Driven Workflow Optimization**  
+1. **Trends in editorial publications**  
    - **Tools Used:** Python, Excel  
-   - **Summary:** Developed tools to reduce information retrieval time and streamline workflows in high-complexity projects.
+   - **Summary:** Compile information on book publications since 2000 into a dedicated database to support decision-making in emerging businesses in this field.
    
-2. **Customer Insights Dashboard**  
-   - **Tools Used:** Tableau, SQL  
-   - **Summary:** Designed interactive dashboards to visualize customer behavior and key performance metrics.
+2. **A/B Testing for Customer Conversion**  
+   - **Tools Used:** Tableau, SQL , Pandas , Python, Numpy, Seaborn, Matplotlib, Scipy.
+   - **Summary:** Complete an A/B test, improving the conversion of users to customers for a website and its products.
 
-3. **RCC Reduction Initiative**  
+3. **Trends on YouTube**  
    - **Tools Used:** Data Cleaning and Visualization (Python, Tableau)  
-   - **Summary:** Reduced post-sales claims (RCC) by 80% for major clients through data-driven solutions.
+   - **Summary:** Know the trends in YouTube to focus on the right marketing campaigns.
 
 ---
 
