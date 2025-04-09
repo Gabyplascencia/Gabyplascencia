@@ -60,7 +60,6 @@
 
 ### 📫 Let's Connect!
 - **Email:** gabriela.r.plas@gmail.com
-- **Celphone:** (+52) 55 
 - **LinkedIn:** [linkedin.com/in/gabrielarivera-dataanalyst]([https://www.linkedin.com/in/gabrielarivera-dataanalyst/])
 
 ---
